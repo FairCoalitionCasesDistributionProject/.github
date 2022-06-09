@@ -10,3 +10,4 @@ The backend was built using [Django REST framework](https://www.django-rest-fram
 
 
 
+[![](http://img.youtube.com/vi/KMo9LFK7z0g/0.jpg)](http://www.youtube.com/watch?v=KMo9LFK7z0g "Fair distribution of ministries in a coalition")
