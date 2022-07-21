@@ -50,7 +50,7 @@ The system is based on an implementation of a linear programming algorithm for f
 
 The algorithm is from Fairpy written by Erel Segal-Halevi
 
-[![1](https://github.com/FairCoalitionCasesDistributionProject/.github/tree/main/profile/Media/1.png)]
+[![ 1 ](https://github.com/FairCoalitionCasesDistributionProject/.github/blob/main/profile/Media/1.png)]
 
 This function gets the values matrix containing each party's values for each item. It sends to dominating allocation with bounded sharing of the values and a division that each party gets the number of mandates/sum of all the mandates. in this way, we guarantee that each party will get a fair share of their size.
 
