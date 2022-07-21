@@ -26,7 +26,7 @@ The backend was built using [Django REST framework](https://www.django-rest-fram
 
 
 
-# Welcome To The Fair Division Of Ministries In A Govermental Coalition Calculation System.
+# Welcome To The Fair Division Of Ministries In A Governmental Coalition Calculation System.
 
 ## A web application which calculates a fair division of ministries between government coalition members.
 
@@ -34,15 +34,15 @@ The platform gets from each party of a potential coalition, its number of mandat
 
 # So How It Works ?
 
-Here you can try to build a coaltion with any parties dividing any ministries you want and see how does it work together.
+Here you can try to build a coalition with any parties dividing any ministries you want and see how does it work together.
 
-First, you will be asked to enter the nubmer of ministries that you want to build your coalition on. After that, you will give give those ministries a description (we need to know what are we dividing right ?).
+First, you will be asked to enter the number of ministries that you want to build your coalition on. After that, you will give give those ministries a description (we need to know what are we dividing right ?).
 
-After that, you'll need to tell how many parties there will be in your coalition and how many mandates in total (not only in the colaition) there is. As in the step before, you will be able to give those parties a description.
+After that, you'll need to tell how many parties there will be in your coalition and how many mandates in total (not only in the coalition) there is. As in the step before, you will be able to give those parties a description.
 
 Please note, the results are highly dependant on the inputs you will use. So, even a difference of a single point might change the division.
 
-Also, after recieving the results, you can copy a URL link which can restore the session for further use.
+Also, after receiving the results, you can copy a URL link which can restore the session for further use.
 
 # The Algorithm
 
