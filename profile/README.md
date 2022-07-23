@@ -1,28 +1,46 @@
-### Site URL: https://faircoalitionproj.netlify.app/
+# Welcome To The Fair Division Of Ministries In A Governmental Coalition Calculation System.
+## Site URL: https://faircoalitionproj.netlify.app/
 Build Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/cf54cefd-52b3-42de-9a28-65207205a954/deploy-status)](https://app.netlify.com/sites/faircoalitionproj/deploys)
 
 
-#### The frontend github release repository: https://github.com/FairCoalitionCasesDistributionProject/FrontEndRelease
+### Table of contents
+<ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter" data-filterable-type="substring" data-pjax>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/FrontEndRelease">Frontend WebGL Release Build Repository</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/ProjectFrontEndThroughUntiy">Frontend Repository (Unity Source Code)</a></strong>
+        </li>        
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/Backend">Backend Source Code Repository With Instructions</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://www.django-rest-framework.org/">The Backend Built Is Based On Django REST Framework</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/Vision1">Vision</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/SRD">SRD</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/SDD">SDD</a></strong>
+        </li>
+         <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/AlgorithmTests">Tests</a></strong>
+        </li>
+        <li class="Box-row">
+          <strong><a class="d-block" href="https://github.com/FairCoalitionCasesDistributionProject/UserFeedbackReply">Feedback</a></strong>
+        </li>
+    </ul>
 
-#### The frontend github repository: https://github.com/FairCoalitionCasesDistributionProject/ProjectFrontEndThroughUntiy
-The frontend was built in WebGL
-
-
-#### The backend github repository: https://github.com/FairCoalitionCasesDistributionProject/Backend
-The backend was built using [Django REST framework](https://www.django-rest-framework.org/)
-
-
-[![](http://img.youtube.com/vi/KMo9LFK7z0g/0.jpg)](http://www.youtube.com/watch?v=KMo9LFK7z0g "Fair distribution of ministries in a coalition")
+[![](http://img.youtube.com/vi/Ap9owYjVAwE/0.jpg)](http://www.youtube.com/watch?v=Ap9owYjVAwE "Fair Distribution Of Ministries In A Coalition (Promo Video).")
 
 
 
 
 
 
-
-
-
-# Welcome To The Fair Division Of Ministries In A Governmental Coalition Calculation System.
 
 ## A web application which calculates a fair division of ministries between government coalition members.
 
@@ -58,6 +76,8 @@ Here we take an existing allocation and use integer programming to divide the it
 
 # About Us
 ![ 5 ](https://github.com/FairCoalitionCasesDistributionProject/.github/blob/main/profile/Media/5.png)
+
+
 
 
 
