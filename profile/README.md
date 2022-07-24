@@ -1,6 +1,6 @@
 # Welcome To The Fair Division Of Ministries In A Governmental Coalition Calculation System.
-## Site URL: https://faircoalitionproj.netlify.app/
-Build Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/cf54cefd-52b3-42de-9a28-65207205a954/deploy-status)](https://app.netlify.com/sites/faircoalitionproj/deploys)
+**Site URL: https://faircoalitionproj.netlify.app/ Build Status:**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf54cefd-52b3-42de-9a28-65207205a954/deploy-status)](https://app.netlifycom/sites/faircoalitionproj/deploys)
 
 
 ### Table of contents
@@ -42,7 +42,7 @@ Build Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/cf54cefd-
 
 
 
-## A web application which calculates a fair division of ministries between government coalition members.
+**A web application which calculates a fair division of ministries between government coalition members.**
 
 The platform gets from each party of a potential coalition, its number of mandates and values for each ministry representing their interest in it as an input. The software returns a fair division of the ministries between the parties as an output accordingly to the leximin criterion.
 
