@@ -73,14 +73,21 @@ Here we take an existing allocation and use integer programming to divide the it
 # Technology
 ![ 4 ](https://github.com/FairCoalitionCasesDistributionProject/.github/blob/main/profile/Media/4.jpg)
 
+
+
+
+# Session Examples
+
+https://faircoalitionproj.netlify.app/?IL24.X9.7.Q.E.6.K.4W
+
+
+
+
+
+https://faircoalitionproj.netlify.app/?IL24.X9.7.Q.E.J.J.FZ
+
 # About Us
 ![ 5 ](https://github.com/FairCoalitionCasesDistributionProject/.github/blob/main/profile/Media/5.png)
-
-
-
-
-
-
 
 
 
